@@ -1,0 +1,1 @@
+I have been asked to create a basic website to showcase the skills I have learnt thus far on the Odin Project including basic HTML and how to use Git and Github Repositories. The website will be for a food recipe, I have decide to use a recipe for my spicy chinese chicken and rice.
